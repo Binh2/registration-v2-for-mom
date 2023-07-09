@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"dev": "ts-node-esm src/main.ts",
+		"d": "ts-node-esm src/initData.ts"
+	},
+	"dependencies": {
+		"puppeteer": "^20.8.0"
+	},
+	"devDependencies": {
+		"@types/node": "^20.4.1"
+	}
+}
